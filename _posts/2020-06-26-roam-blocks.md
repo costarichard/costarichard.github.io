@@ -28,7 +28,7 @@ toc_icon: "cog"
 
 ## Summary
 
-*This is the first post in what is meant to be a series of posts on using Roam for research, particularly on STEM. My goal is that others can find some ideas useful and apply them to their workflows. In particular, this post is about using block references to get rid of meaningless connections in your pages.*
+*This is the first post in what is meant to be a series of posts on using Roam for research, particularly on STEM. My goal is that others can find some ideas useful and apply them to their workflows. In particular, this post is about using block references to decrease the number of page links your pages.*
 
 ---
 ## Cluttered Connections
@@ -42,7 +42,7 @@ Backlinks sit in a section of the page called *linked references*. Every page ha
 <img src="/assets/images/roam-blocks/roam-backlinks.png" width="600" class="center"/>
 *Page link in Roam*
 
-When we first start using Roam we often get advised to just start writing and linking notes as much as we can, including creating links to be used as tags, like `[[Important]]` or `[[Books]]`. However, if we're not careful, this approach can prevent you from making it easy to spot *meaningful* connections by creating too many pages that function only as some sort of category or tags. For example, this is one of my notes:
+When we first start using Roam we often get advised to just start writing and linking notes as much as we can, including creating links to be used as tags, like `[[Important]]` or `[[Books]]`. However, doing this blindly can prevent us from spotting *meaningful* connections easily, if we have too many pages that act only as tags or categories. For example, this is one of my notes:
 
 ![](/assets/images/roam-blocks/roam-ref-graph-note.png)
 *Graph view of a particular page*
@@ -52,7 +52,7 @@ There are few connections in there and it's pretty clear what they are and how p
 <img src="/assets/images/roam-blocks/roam-ref-nate-db.png" width="500" class="center"/>
 *Web of thoughts. Image from <a href="https://www.nateliason.com/blog/roam" title="Nat Eliason">https://www.nateliason.com/blog/roam</a>*
 
-If most my connections are relating content and ideas, it's great that the graph view looks cluttered. If not, then we might be wasting pages that may be better used as blocks.
+If most of my connections are relating content and ideas, it's great that the graph view looks cluttered. If not, then we might be wasting pages that *may be better used as blocks*.
 
 Just to be clear, this is not a nipick on visuals. Those nodes and connections represent lnked references, a backbone of Roam. A great number of links without much content in them is not necessarily useful for connecting thoughts, because those links won’t be able to provide immediate insights about your notes.
 
@@ -91,7 +91,7 @@ Furthrmore, block references allow for more flexibility and possibilities of con
 
 Here blue arrows are the backlinks found in those pages *and* blocks. Self-referencing is shown as an arrow coming out of $b_{1}$ and going back to it again. Note that the block $a_{n1}$, which is nested inside block $a_{n}$, references block $b_{2}$, page $B$ and its own parenting block $a_{n}$!
 
-By turning my tag pages into blocks of some other page I could  then reference them without creating direct links, which decluttered my linked references section. I still could use those blocks as tags, and so I didn't lose the tagging function of those pages.
+By turning my tag pages into blocks I could reference them without creating direct links, which decluttered my linked references section. I could still use those blocks as tags, and so I didn't lose the tagging function of those pages.
 
 I've been trying out ways of using blocks references for the past month or so and I'm still learning. So far my use of them includes:
 
