@@ -115,8 +115,10 @@ tag_archive:
   type: liquid
   path: /tags/
 
-  analytics:
-  provider: "google-gtag"
+analytics:
+  provider: "google"
   google:
     tracking_id: "UA-171135248-1"
     anonymize_ip: false # default
+
+google_site_verification: google049b26ac0bdc9be4
