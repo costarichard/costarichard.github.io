@@ -28,7 +28,7 @@ toc_icon: "cog"
 
 ## Summary
 
-*This is the first post in what is meant to be a series of posts on using Roam for research, particularly on STEM. My goal is that others can find some ideas useful and apply them to their workflows. In particular, this post is about using block references to decrease the number of page links your pages.*
+*This is the first post in what is meant to be a series of posts on using Roam for research, particularly on STEM. My goal is that others can find some ideas useful and apply them to their workflows. In particular, this post is about using block references to decrease the number of page links in your database.*
 
 ---
 ## Cluttered Connections
@@ -54,9 +54,9 @@ There are few connections in there and it's pretty clear what they are and how p
 
 If most of my connections are relating content and ideas, it's great that the graph view looks cluttered. If not, then we might be wasting pages that *may be better used as blocks*.
 
-Just to be clear, this is not a nipick on visuals. Those nodes and connections represent lnked references, a backbone of Roam. A great number of links without much content in them is not necessarily useful for connecting thoughts, because those links won’t be able to provide immediate insights about your notes.
+Just to be clear, this is not a nipick on visuals. Those nodes and connections represent linked references, a backbone of Roam. A great number of links without much content in them is not necessarily useful for connecting thoughts, because those links won’t be able to provide immediate insights about your notes.
 
-A concrete example may help you understand better what I'm trying to say. Say you're reading about killer bees and want to take some notes on this topic. You create a page titled `[[Killer Bees]]` and you tag it right away with `[[Entomology]]` since it's the field that studies insects. After that, you find an interesting connection between killer bees and human populations and create a page link entitled `[[Human Populations]]` inside `[[Killer Bees]]`.
+A concrete example may help you understand better what I'm trying to say. Say you're reading about killer bees and want to take some notes on this topic. You create a page titled `[[Killer Bees]]` and you tag it right away with `[[Entomology]]` since it's the field that studies insects. After that, you find an interesting connection between killer bees and human populations and create a page link titled `[[Human Populations]]` inside `[[Killer Bees]]`.
 
 Weeks go by and you figure you should revisit your notes. You go to the linked references (or use the graph view) of `[[Killer Bees]]` to understand how this page relates to other topics. If you link the hell out of your notes, your linked references section may end up including pages like:
 
@@ -74,16 +74,18 @@ Weeks go by and you figure you should revisit your notes. You go to the linked r
 
 The human populations page will be close to last in that list because it was one of the first links you created. We have too many linked references that just don't tell us more about those bees.
 
-Now, even if you don't care about the graph view, and argue that you could just filter out pages like `[[ToDo]]` in the linked references section, you still have to do this filtering in *every note*. Similarly, every time you create a new page that works as a tag, like `[[ToRead]]`, it adds potential links to be filtered out when you're just trying to understand the contents that are related in your notes. You're connecting notes without useful content, that is, content that can be used to build knowledge upon the information you already have.
+Now, even if you don't care about the graph view, and argue that you could just filter out pages like `[[ToDo]]` in the linked references section, you still have to do this filtering in *every note*. Similarly, every time you create a new page that works as a tag, like `[[ToRead]]`, it adds potential links to be filtered out in the future, when you're just trying to understand the contents that are related in your notes. You're connecting notes without useful content, that is, content that can't be used to build knowledge upon the information you already have.
 
-Some tag notes are necessary, but I think you should try and keep their number low. One way to do this is using block references.
+I know, some tag notes are necessary. My own example would be my `[[Quantum Computing]]` page. So far it works only as a category, even though I will add some content in the future. But even if I don't, it will still be useful to me.
+
+![](/assets/images/roam-blocks/qc-page.png)
 
 
 ## Blocks: A Way Out
 
 One of the most important features Roam has to offer is the ability to reference blocks. Just like pages, you can link a block to any page. But block referencing goes further: besides linking pages to blocks we can link blocks to blocks, blocks to its nested blocks (and vice versa), and even create a self-reference block!
 
-Furthrmore, block references allow for more flexibility and possibilities of connections between notes. I tried to capture these possibilities in an image:
+Block references allow for more flexibility and possibilities of connections between notes. I tried to capture these possibilities in an image:
 
 <img src="/assets/images/roam-blocks/roam-block-backlinks.png" width="
 600" class="center"/>
@@ -95,7 +97,7 @@ By turning my tag pages into blocks I could reference them without creating di
 
 I've been trying out ways of using blocks references for the past month or so and I'm still learning. So far my use of them includes:
 
-* As a replacement for some pages that used to work like tags and categories. An example would be `[[Books]]`.
+* As a replacement for some pages that used to work like tags and categories. An example of a page turned into a block this way would be `[[Books]]`.
 * Referencing items in a database of theorems, definitions, and common concepts, so I don't need to rewrite them all the time.
 * As a tool for gathering and citing papers in my notes.
 
@@ -112,9 +114,9 @@ And if I don't want to open it up, but still want to see where it was referenced
 
 <img src="/assets/images/roam-blocks/ToRead-Block-Mentions.png" width="600" class="center"/>
 
-As you could see, blocks also have a linked reference section! This can be used to connect pages and therefore can serve at least some of the same purposes of regular pages. Also, no other page in my Roam database has a `ToLearn` link in the linked references section.
+As you could see, blocks also have a linked reference section! This can be used to connect pages and therefore can serve at least some of the same purposes of regular pages. Now no other page in my Roam database has a `ToLearn` link in the linked references section.
 
-Another useful feature of blocks is that we're able to know how many times a block has been referenced in my notes by just checking the number next to that block. In my example, I have referenced the block `ToLearn` $11$ times.
+Another useful feature of blocks is being able to know how many times a block has been referenced in my notes by just checking the number next to that block. In my example, I have referenced the block `ToLearn` $11$ times.
 
 So far the only disadvantage I've had in using blocks is that they don't have unlinked references. Personally, this has not been a problem though.
 
@@ -122,12 +124,12 @@ Also, clicking in a block in the sidebar doesn't open it up on the main page. Ho
 
 ## Summing it up
 
-Bi-directional links are great, but they need to be treated with some care after you have a good amount of notes. Connections grow and linked references become abundant, but I didn't want to have pages that were not filled with content on useful topics for my studies and research. My way out was using blocks and referencing them.
+Bi-directional links are great, but they need to be treated with some care after you have a good amount of notes. Connections grow and linked references become abundant, but I didn't want to have pages that weren't filled with content on useful topics for my studies and research. My way out was using blocks and referencing them.
 
 Blocks are more powerful than pages in the ways they can be connected to other pages and other blocks. Recognizing that blocks are the fundamental entities in Roam will give you a new perspective, by linking fewer pages unnecessarily and using more blocks to connect topics.
 
 The result is that I now use a lot more blocks than I used to and reserve pages for topics or things that I actually intend to fill with content. I’ve been using blocks as tags, as items that need to be referenced often, and as bibliographical entries for citations.
 
-I’m sure there are many other uses of blocks I haven’t still figured out and probably there are better use for them than what I do now. My approach, however, provided me with enough structure to research and write without worry and still make meaningful connections. I hope this can help anyone out there having the same issues.
+I’m sure there are many other uses of blocks I haven’t still figured out and probably there are better use for them than what I do now. My approach, however, provided me with enough structure to research and write without worries, but still make meaningful connections. I hope this can help anyone out there having the same issues.
 
 ---
