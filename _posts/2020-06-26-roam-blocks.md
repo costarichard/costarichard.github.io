@@ -135,6 +135,6 @@ I’m sure there are many other uses of blocks I haven’t still figured out and
 
 <div style="background-color: #AADADA ; padding: 0px;">
 
-*Click [➡](https://costarichard.github.io/tools/roam-blocksII-citations/) to go to the next post in the series.* </div>
+<i>Click <a href="https://costarichard.github.io/tools/roam-blocksII-citations" title="Citations">➡</a> to go to the next post in the series.</i> </div>
 
 ---
