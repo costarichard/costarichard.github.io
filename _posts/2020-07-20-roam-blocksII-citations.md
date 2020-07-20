@@ -14,7 +14,7 @@ toc_icon: "cog"
 
 <div style="background-color: #AADADA ; padding: 0px;">
 
-<i> Click <a href="https://costarichard.github.io/tools/roam-blocks/" title="Decluttering">↩</a> to go to the first post in the series.<i> </div>
+<i> Click <a href="https://costarichard.github.io/tools/roam/roam-blocks/" title="Decluttering">↩</a> to go to the first post in the series.<i> </div>
 
 ---
 
