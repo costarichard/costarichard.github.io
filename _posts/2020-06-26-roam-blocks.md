@@ -133,8 +133,7 @@ The result is that I now use a lot more blocks than I used to and reserve pages 
 
 I’m sure there are many other uses of blocks I haven’t still figured out and probably there are better use for them than what I do now. My approach, however, provided me with enough structure to research and write without worries, but still make meaningful connections. I hope this can help anyone out there having the same issues.
 
-<div style="background-color: #AADADA ; padding: 0px;">
 
-<i>Click <a href="https://costarichard.github.io/tools/roam/roam-blocksII-citations/" title="Citations">➡</a> to go to the next post in the series.</i> </div>
+[➡ Blocks in Roam II: Citations](https://costarichard.github.io/tools/roam/roam-blocksII-citations/)
 
 ---

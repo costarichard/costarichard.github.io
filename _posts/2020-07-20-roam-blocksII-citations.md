@@ -12,17 +12,16 @@ toc: true
 toc_icon: "cog"
 ---
 
-<div style="background-color: #AADADA ; padding: 0px;">
-
-<i> Click <a href="https://costarichard.github.io/tools/roam/roam-blocks/" title="Decluttering">↩</a> to go to the first post in the series.<i> </div>
+[↩ Blocks in Roam I: Decluttering](https://costarichard.github.io/tools/roam/roam-blocks/)
 
 ---
-
 ## Summary
+
 
 *This is the second post in what's meant to be a series of posts on using Roam for research. This post is about using block references to cite papers, books and other types of content.*
 
 ---
+
 
 ## Citations in Roam
 
