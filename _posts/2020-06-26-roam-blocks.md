@@ -3,8 +3,9 @@ title: "Blocks in Roam I: Decluttering"
 excerpt_separator: "<!--more-->"
 categories:
   - Tools
-tags:
   - Roam
+tags:
+  - Roam Blocks
   - Intermediate
 classes: wide
 toc: true
@@ -131,5 +132,9 @@ Blocks are more powerful than pages in the ways they can be connected to other p
 The result is that I now use a lot more blocks than I used to and reserve pages for topics or things that I actually intend to fill with content. I’ve been using blocks as tags, as items that need to be referenced often, and as bibliographical entries for citations.
 
 I’m sure there are many other uses of blocks I haven’t still figured out and probably there are better use for them than what I do now. My approach, however, provided me with enough structure to research and write without worries, but still make meaningful connections. I hope this can help anyone out there having the same issues.
+
+<div style="background-color: #AADADA ; padding: 0px;">
+
+*Click [➡](https://costarichard.github.io/tools/roam-blocksII-citations/) to go to the next post in the series.* </div>
 
 ---
