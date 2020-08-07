@@ -1,12 +1,14 @@
 ---
 title: "Wanted: Dead and Alive"
 excerpt_separator: "<!--more-->"
-categories:
+header: 
+ teaser: /assets/images/wanted-dead-alive/black-cat.jpg
+ categories:
   - Physics and Math
 tags:
   - Quantum Mechanics
-  - Schrödinger
   - Beginner
+  - Schrödinger
 classes: wide
 toc: true
 toc_icon: "cog"
