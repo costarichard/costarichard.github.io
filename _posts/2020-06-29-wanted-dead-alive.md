@@ -7,7 +7,6 @@ header:
   - Physics and Math
 tags:
   - Quantum Mechanics
-  - Beginner
   - Schrödinger
 classes: wide
 toc: true

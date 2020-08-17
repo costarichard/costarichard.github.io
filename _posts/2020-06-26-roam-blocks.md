@@ -1,12 +1,13 @@
 ---
 title: "Blocks in Roam I: Decluttering"
 excerpt_separator: "<!--more-->"
+header: 
+ teaser: /assets/images/astrolabe-white.jpg 
 categories:
   - Tools
   - Roam
 tags:
   - Roam Blocks
-  - Intermediate
 classes: wide
 toc: true
 toc_icon: "cog"
