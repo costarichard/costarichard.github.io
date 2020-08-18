@@ -1,5 +1,5 @@
 ---
-title: "Blocks in Roam II.1: A Page for your Blocks"
+title: "Blocks in Roam III: A Page for your Blocks"
 excerpt_separator: "<!--more-->"
 header: 
  teaser: /assets/images/astrolabe-white.jpg
