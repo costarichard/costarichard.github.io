@@ -19,7 +19,7 @@ toc_icon: "cog"
 ## Summary
 
 
-*This is the second post in a series of posts on using Roam for research. This post is about using block references to cite papers, books and other types of content.*
+*This is the second post in a series of posts on using Roam for research. This one is about using block references to cite papers, books and other types of content.*
 
 ---
 
