@@ -1,5 +1,5 @@
 ---
-title: "Blocks in Roam III: A Page for your Blocks"
+title: "Blocks in Roam III: A Page for your Blocks and Versions"
 excerpt_separator: "<!--more-->"
 header: 
  teaser: /assets/images/astrolabe-white.jpg
@@ -36,7 +36,7 @@ If the numbers showing the block mentions seem too dim you can use another roam 
 
 Of course, how is the page structured is highly dependent on your needs. I could, for example, put the blocks related to TODOs in the default TODO page. It doesn't matter that much as long as you can find all the relevant blocks later.
 
-##Versions
+## Versions
 
 You can also use block versions to group tags that are of the same 'kind'. For example, it's common for people to tag notes based on the kind of media they're taking the notes from: books, articles, podcasts, etc. We can group all those different kinds of media in a single block with different versions. First, create a block for tagging book notes, something like `BookNotes`. Then right-click on the block and select 'add version', or just use the shortcut `ctrl + comma`. The block will now look like this:
 
