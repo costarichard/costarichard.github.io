@@ -13,7 +13,7 @@ toc: true
 toc_icon: "cog"
 ---
 
-[↩ Blocks in Roam II: Citations](http://localhost:4000/tools/roam/roam-blocksII-citations/)
+[↩ Blocks in Roam II: Citations](https://costarichard.github.io/tools/roam/roam-blocksII-citations/)
 
 ---
 ## Summary
