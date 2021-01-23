@@ -1,5 +1,5 @@
 ---
-title: "Roam Research and Language Learning: Deltas and Translation"
+title: "Roam Research and Language Learning I: Deltas and Translation"
 excerpt_separator: "<!--more-->"
 header: 
  teaser: /assets/images/astrolabe-white.jpg
