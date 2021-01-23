@@ -16,7 +16,7 @@
 title: The Quantum Rabbit Hole 🐇
 email: scosta.richard@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  A PhD student in Physics trying to understand some Quantum Information.
+  A PhD student in Physics.
 twitter_username: richsicist
 github_username: costarichard
 minimal_mistakes_skin: default
@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "Richard Costa"
   avatar : "/assets/images/me-dark.jpg"
-  bio    : "PhD student in physics. Currently interested in quantum computing."
+  bio    : "PhD student in physics. Currently interested in quantum computing & information and quantum thermodynamics."
   links:
     - label: "Reddit"
       icon: "fab fa-reddit"
