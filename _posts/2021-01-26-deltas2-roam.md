@@ -81,12 +81,7 @@ We could even use this to create little quizzes
 
 With the syntax
 
-`
-> ❓ How do you order 'wine with fish' in Norwegian?
-
-{{or:Choose one | Jeg vil ha gjerne fisk | Jeg vil ha fisk til vin | Jeg vil ha vin til fisken | Jeg vil ha gjerne vin til fisk}}
-`
-
+![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FMinHjerne%2FK_jC79RFtu.png?alt=media&token=314d01e6-98a5-4731-afcb-32bfd403d8b8)
 
 By the way, this works with $LaTeX$ too, and it looks quite nice:
 
