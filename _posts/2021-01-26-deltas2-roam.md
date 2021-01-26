@@ -81,11 +81,11 @@ We could even use this to create little quizzes
 
 With the syntax
 
-~~~
+`
 > ❓ How do you order 'wine with fish' in Norwegian?
 
 {{or:Choose one | Jeg vil ha gjerne fisk | Jeg vil ha fisk til vin | Jeg vil ha vin til fisken | Jeg vil ha gjerne vin til fisk}}
-~~~
+`
 
 
 By the way, this works with $LaTeX$ too, and it looks quite nice:
