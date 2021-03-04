@@ -1,5 +1,5 @@
 ---
-permalink: /notes/
+permalink: /index/
 title: "Index"
 toc: true
 classes: wide

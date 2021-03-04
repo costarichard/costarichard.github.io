@@ -1,13 +1,24 @@
 main:
   - title: "Posts"
     url: /posts/
-  - title: "QC resources"
-    url: /quantum/
-  - title: "Notes"
-    url: /notes/
-  - title: "Categories"
-    url: /categories/
+  - title: "Index"
+    url: /index/
   - title: "Tags"
     url: /tags/
   - title: "About"
     url: /about/
+
+#in the past this was the layout 
+#main:
+ # - title: "Posts"
+    #url: /posts/
+#  - title: "QC resources"
+    #url: /quantum/
+#  - title: "Notes"
+    #url: /notes/
+#  - title: "Categories"
+    #url: /categories/
+#  - title: "Tags"
+    #url: /tags/
+#  - title: "About"
+    #url: /about/
